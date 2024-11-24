@@ -7,6 +7,6 @@ layout: default
 
 [Tianyang Li](https://scholar.google.com/citations?user=97z68gkAAAAJ&hl=en)
 
-Academic AI and Machine Learning Consulting
+Academic AI, Machine Learning, and Statistical Consulting
 
 <litianyang.research@gmail.com>
